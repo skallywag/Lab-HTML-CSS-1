@@ -1,0 +1,25 @@
+body {
+    background-color: lightslategray;
+    text-align: center;
+}
+h1 {
+    font-size: 60px;
+}
+
+img {
+    width: 40vw;
+
+}
+
+p {
+    font-size: 20px;
+}
+
+h3 {
+    color: darkred;
+}
+
+input {
+    height: 10vh;
+    width: 30vw;
+}
