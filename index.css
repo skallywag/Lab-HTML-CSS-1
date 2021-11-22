@@ -8,7 +8,6 @@ h1 {
 
 img {
     width: 40vw;
-
 }
 
 p {
@@ -22,4 +21,14 @@ h3 {
 input {
     height: 10vh;
     width: 30vw;
+}
+button {
+    background-color: orange;
+    height: 5vh;  
+    border-radius: 15px;
+    color: red   
+}
+button:hover {
+    color: blue;
+    cursor: pointer;
 }
